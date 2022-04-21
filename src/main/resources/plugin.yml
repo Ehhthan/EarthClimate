@@ -1,0 +1,7 @@
+name: EarthClimate
+version: '${project.version}'
+main: earthclimate.earthclimate.EarthClimate
+api-version: 1.18
+authors: [ Ehhthan ]
+description: Climate for EarthMC maps.
+website: earthclimate.ehhthan.com
